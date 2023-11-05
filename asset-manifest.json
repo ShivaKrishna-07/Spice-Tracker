@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Spice-Tracker/static/css/main.31d14ebe.css",
-    "main.js": "/Spice-Tracker/static/js/main.1efd9790.js",
+    "main.js": "/Spice-Tracker/static/js/main.3f59aef8.js",
     "static/js/787.5dbcab25.chunk.js": "/Spice-Tracker/static/js/787.5dbcab25.chunk.js",
     "static/media/brand-icons.svg": "/Spice-Tracker/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/Spice-Tracker/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -22,11 +22,11 @@
     "static/media/outline-icons.woff2": "/Spice-Tracker/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/Spice-Tracker/index.html",
     "main.31d14ebe.css.map": "/Spice-Tracker/static/css/main.31d14ebe.css.map",
-    "main.1efd9790.js.map": "/Spice-Tracker/static/js/main.1efd9790.js.map",
+    "main.3f59aef8.js.map": "/Spice-Tracker/static/js/main.3f59aef8.js.map",
     "787.5dbcab25.chunk.js.map": "/Spice-Tracker/static/js/787.5dbcab25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d14ebe.css",
-    "static/js/main.1efd9790.js"
+    "static/js/main.3f59aef8.js"
   ]
 }
